@@ -1,0 +1,199 @@
+leftnav:
+- identifier: e95c196a-9760-8d1f-b7db-9c777c27c4de
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 7e9dbefa-d7c0-55ec-dc1d-dbb6900543ea
+  name: Instructor Insights
+  url: /pages/instructor-insights/
+  weight: 20
+- identifier: 4ece91ae-535b-357b-7231-28be98cac743
+  name: Course Readings as Catalysts for Discussion
+  parent: 7e9dbefa-d7c0-55ec-dc1d-dbb6900543ea
+  url: /pages/instructor-insights/course-readings-as-catalysts-for-discussion
+  weight: 30
+- identifier: 93c1284a-2f23-874c-977a-debf44537cf1
+  name: Teaching the Uncertainty
+  parent: 7e9dbefa-d7c0-55ec-dc1d-dbb6900543ea
+  url: /pages/instructor-insights/teaching-the-uncertainty
+  weight: 40
+- identifier: 48366bfc-c575-096d-0e2f-f071b9fd7f0c
+  name: Conversations on Values
+  parent: 7e9dbefa-d7c0-55ec-dc1d-dbb6900543ea
+  url: /pages/instructor-insights/conversations-on-values
+  weight: 50
+- identifier: 97fcf5b6-0388-1e31-5ab4-738dcf275739
+  name: Presenting the Science
+  parent: 7e9dbefa-d7c0-55ec-dc1d-dbb6900543ea
+  url: /pages/instructor-insights/presenting-the-science
+  weight: 60
+- identifier: d0986837-4f0e-5e5a-8cad-70f86734125a
+  name: SECTION 1 | Framing the Discussion
+  url: /pages/framing-the-discussion/
+  weight: 70
+- identifier: f940c2c2-d72c-e998-ce78-3f0f6abec9e3
+  name: 'Class 1: The Food Security Debate'
+  parent: d0986837-4f0e-5e5a-8cad-70f86734125a
+  url: /pages/framing-the-discussion/class-1-the-food-security-debate
+  weight: 80
+- identifier: 17b97c14-119d-387b-4d55-af17e0f93899
+  name: SECTION 2 | Food and Natural Resources
+  url: /pages/food-and-natural-resources/
+  weight: 90
+- identifier: ee9afca1-1572-d691-da89-8afd529f77e5
+  name: 'Class 2: Demand for Food'
+  parent: 17b97c14-119d-387b-4d55-af17e0f93899
+  url: /pages/food-and-natural-resources/demand-for-food
+  weight: 100
+- identifier: 69e4e4f8-88ae-2eeb-59b3-81e322f21100
+  name: 'Class 3: Resources for Food Production: Water'
+  parent: 17b97c14-119d-387b-4d55-af17e0f93899
+  url: /pages/food-and-natural-resources/resources-for-food-production-water
+  weight: 110
+- identifier: 23e9791a-9ce9-4e49-5db1-f008a91a9c25
+  name: 'Class 4: Resources for Food Production: Land and Nutrients'
+  parent: 17b97c14-119d-387b-4d55-af17e0f93899
+  url: /pages/food-and-natural-resources/resource-for-food-production-land-and-nutrients
+  weight: 120
+- identifier: d399c927-9e76-7a24-19d9-ffee9f92bfbb
+  name: S1. UN Global and Regional Population Projections
+  parent: 17b97c14-119d-387b-4d55-af17e0f93899
+  url: /pages/food-and-natural-resources/un-global-and-regional-population-projections
+  weight: 130
+- identifier: 36a7b44b-38f1-0a8b-6306-dfed1c615cf0
+  name: S2. FAO Food Loss Charts
+  parent: 17b97c14-119d-387b-4d55-af17e0f93899
+  url: /pages/food-and-natural-resources/fao-food-loss-charts
+  weight: 140
+- identifier: 80a1f194-8379-a7e0-bd28-be96b3fc236d
+  name: S3. FAOSTAT Food Balance Sheets
+  parent: 17b97c14-119d-387b-4d55-af17e0f93899
+  url: /pages/food-and-natural-resources/faostat-food-balance-sheets
+  weight: 150
+- identifier: 8da17822-01c8-a1aa-e586-9f4dbbb56401
+  name: S4. Background Data on Food Security
+  parent: 17b97c14-119d-387b-4d55-af17e0f93899
+  url: /pages/food-and-natural-resources/background-data-on-food-security
+  weight: 160
+- identifier: 7bf8d0d4-f030-f7d4-42de-dc47fa08ff4b
+  name: S5. Food and Natural Resource Demands
+  parent: 17b97c14-119d-387b-4d55-af17e0f93899
+  url: /pages/food-and-natural-resources/food-and-natural-resource-demands
+  weight: 170
+- identifier: 1be97067-a4fb-601f-6341-a348cb0f1753
+  name: S6. The Water Cycle
+  parent: 17b97c14-119d-387b-4d55-af17e0f93899
+  url: /pages/food-and-natural-resources/the-water-cycle
+  weight: 180
+- identifier: 69f0c50c-74f7-08a9-2900-14e71d22eadf
+  name: S7. Recent Cropland Expansion from Deforestation
+  parent: 17b97c14-119d-387b-4d55-af17e0f93899
+  url: /pages/food-and-natural-resources/recent-cropland-expansion-from-deforestation
+  weight: 190
+- identifier: 69f97ef6-9389-dd2a-d4c2-175952232ca3
+  name: S8. Global Variability in Climate, Crop Suitability & Crop Yield
+  parent: 17b97c14-119d-387b-4d55-af17e0f93899
+  url: /pages/food-and-natural-resources/global-variability-in-climate-crop-suitability-and-crop-yield
+  weight: 200
+- identifier: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
+  name: 'SECTION 3 | Reconciling Demand and Supply: Context'
+  url: /pages/reconciling-demand-and-supply-i/
+  weight: 210
+- identifier: 8fb52a39-32b1-91f7-1e21-708a50b05b9f
+  name: 'Class 5: Crop Yield'
+  parent: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
+  url: /pages/reconciling-demand-and-supply-i/crop-yield
+  weight: 220
+- identifier: 0df26d4a-ca37-738a-c733-9071f083734f
+  name: 'Class 6: Environmental Impacts of Agriculture'
+  parent: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
+  url: /pages/reconciling-demand-and-supply-i/environmental-impacts-of-agriculture
+  weight: 230
+- identifier: 4152ebd3-91c9-4fbb-0405-f7544d2c9a9b
+  name: 'Class 7: Smallholder Farming: Focus on Africa'
+  parent: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
+  url: /pages/reconciling-demand-and-supply-i/smallholder-farming-focus-on-africa
+  weight: 240
+- identifier: c1c3fc25-5f39-8470-1f4e-5b6c36ca4cd2
+  name: 'Class 8: Climate Change and Agriculture'
+  parent: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
+  url: /pages/reconciling-demand-and-supply-i/climate-change-and-agriculture
+  weight: 250
+- identifier: cd91cf6f-3d87-1fa4-380a-e053e7ed889b
+  name: 'Class 9: New Technologies and Practices'
+  parent: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
+  url: /pages/reconciling-demand-and-supply-i/new-technologies-and-practices
+  weight: 260
+- identifier: 39f4fa80-dcf5-4af5-c6fa-6b09fbf9967e
+  name: 'Class 10: Trade and Optimal Resource Allocation'
+  parent: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
+  url: /pages/reconciling-demand-and-supply-i/trade-optimal-resource-allocation
+  weight: 270
+- identifier: 7c50770f-1bf3-0d2c-cbd9-e99f87190be5
+  name: S9. Soil Properties, Soil Suitability Measures, etc
+  parent: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
+  url: /pages/reconciling-demand-and-supply-i/soil-properties
+  weight: 280
+- identifier: 746a661c-1628-56f3-67a9-69bf52c249e4
+  name: S10. Global and Regional Farm Characteristics
+  parent: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
+  url: /pages/reconciling-demand-and-supply-i/global-and-regional-farm-characteristics
+  weight: 290
+- identifier: 386d96bd-dc34-e68b-df95-4641d6de2081
+  name: 'S11. World Greenhouse Gas Emissions: 2016'
+  parent: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
+  url: /pages/reconciling-demand-and-supply-i/world-greenhouse-gas-emissions
+  weight: 300
+- identifier: 109a33ae-1c21-675a-af3e-2a2b89c25f8b
+  name: S12. Adoption of Genetically Engineered Crops in the USA
+  parent: 8dd4dd9f-324e-5e95-79e8-ecc7c04937d9
+  url: /pages/reconciling-demand-and-supply-i/adoption-of-genetically-engineered-crops-in-the-usa
+  weight: 310
+- identifier: 85a7c276-88f8-3e13-efe6-de32c9c3a35d
+  name: 'SECTION 4 | Reconciling Demand and Supply: Options'
+  url: /pages/reconciling-demand-and-supply-ii/
+  weight: 320
+- identifier: 3187906a-f47f-cc4b-6842-8d931a32d49f
+  name: 'Class 11: Green Revolutions Past and Future'
+  parent: 85a7c276-88f8-3e13-efe6-de32c9c3a35d
+  url: /pages/reconciling-demand-and-supply-ii/green-revolutions-past-and-future
+  weight: 330
+- identifier: f15864c8-e1d9-f1b7-8c00-28a2df10524f
+  name: 'Class 12: Agroecology'
+  parent: 85a7c276-88f8-3e13-efe6-de32c9c3a35d
+  url: /pages/reconciling-demand-and-supply-ii/agroecology
+  weight: 340
+- identifier: fc6b5964-9289-fd6a-e7b1-3affacb1871a
+  name: S13. Comparison of Three Global Crop Production Systems
+  parent: 85a7c276-88f8-3e13-efe6-de32c9c3a35d
+  url: /pages/reconciling-demand-and-supply-ii/comparison-of-three-crop-production-systems
+  weight: 350
+- identifier: fc6b5964-9289-fd6a-e7b1-3affacb1871a
+  name: S13. Comparison of Three Global Crop Production Systems
+  parent: 85a7c276-88f8-3e13-efe6-de32c9c3a35d
+  url: /pages/reconciling-demand-and-supply-ii/comparison-of-three-crop-production-systems
+  weight: 360
+- identifier: 88ef2585-814f-363d-ae6e-d9111360df94
+  name: SECTION 5 | The Way Forward
+  url: /pages/the-way-forward
+  weight: 370
+- identifier: eae3e96e-8035-c19d-de97-5231ac9872e6
+  name: Related Resources
+  url: /pages/related-resources
+  weight: 380
+- identifier: 8a70d38d-8692-c815-db85-5e073852cbe8
+  name: Download Course Materials
+  url: /pages/download-course-materials
+  weight: 390
+- identifier: 88ef2585-814f-363d-ae6e-d9111360df94
+  name: SECTION 5 | The Way Forward
+  url: /pages/the-way-forward
+  weight: 400
+- identifier: eae3e96e-8035-c19d-de97-5231ac9872e6
+  name: Related Resources
+  url: /pages/related-resources
+  weight: 410
+- identifier: 8a70d38d-8692-c815-db85-5e073852cbe8
+  name: Download Course Materials
+  url: /pages/download-course-materials
+  weight: 420
